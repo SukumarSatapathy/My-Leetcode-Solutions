@@ -1,6 +1,9 @@
 '''
 Runtime: 135 ms, faster than 92.23% of Python3 online submissions for Set Matrix Zeroes.
 Memory Usage: 14.8 MB, less than 54.57% of Python3 online submissions for Set Matrix Zeroes.
+
+Time : O(m*n)
+Space : O(m+n)
 '''
 
 
