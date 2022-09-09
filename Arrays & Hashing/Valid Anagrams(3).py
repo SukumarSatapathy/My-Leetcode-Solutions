@@ -1,5 +1,8 @@
 '''
 Using hashMap
+
+Runtime: 119 ms, faster than 9.30% of Python3 online submissions for Valid Anagram.
+Memory Usage: 14.4 MB, less than 67.16% of Python3 online submissions for Valid Anagram.
 '''
 
 class Solution:
