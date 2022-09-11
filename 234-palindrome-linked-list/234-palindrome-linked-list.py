@@ -5,8 +5,14 @@
 #         self.next = next
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        arr = []
+        stack = []
+        new_list = head
         while head:
-            arr.append(head.val)
+            stack.append(head.val)
             head = head.next
-        return arr == arr[::-1]
+        while new_list:
+            if new_list.val != stack.pop():
+                return False
+            new_list = new_list.next
+            
+        return True
