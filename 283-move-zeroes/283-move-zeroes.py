@@ -5,7 +5,7 @@ class Solution:
         """
         n = len(nums)
         if n == 1:
-            return nums
+            return
         
         ptr1, ptr2 = 0, 1
         while ptr2 < n:
@@ -21,4 +21,3 @@ class Solution:
                 ptr2 += 1
                 ptr1 += 1
             
-        return nums
