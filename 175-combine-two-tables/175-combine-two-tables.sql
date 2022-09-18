@@ -1,3 +1,2 @@
-SELECT P.FirstName, P.LastName, A.City, A.State
-FROM Person P LEFT JOIN Address A
-on P.PersonId = A.PersonId
+SELECT P.firstName, P.lastName, A.city, A.state FROM Person P
+LEFT JOIN Address A USING (personId)
