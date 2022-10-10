@@ -9,14 +9,10 @@ class Solution:
         if head is None:
             return None
         
-        slow, fast, start = head, head, head
-        while fast.next and fast.next.next:
-            slow = slow.next
-            fast = fast.next.next
-            if slow == fast:
-                while start != slow:
-                    slow = slow.next
-                    start = start.next
-                return start
-            
+        visited = set()
+        while head:
+            if head in visited:
+                return head
+            visited.add(head)
+            head = head.next
         return None
