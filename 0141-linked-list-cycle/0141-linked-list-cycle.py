@@ -12,4 +12,4 @@ class Solution:
                 return True
             visited.add(head)
             head = head.next
-        
+        return False
