@@ -1,3 +1,4 @@
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        return set('abcdefghijklmnopqrstuvwxyz') == set(sentence)
+        alphabet = set('abcdefghijklmnopqrstuvwxyz')
+        return alphabet == set(sentence)
