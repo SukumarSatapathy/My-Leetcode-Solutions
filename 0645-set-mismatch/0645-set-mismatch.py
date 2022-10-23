@@ -1,10 +1,9 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
         nums.sort()
-        n = len(nums)
-        for i in range(n):
+        for i in range(len(nums)):
             if i-1 >= 0 and nums[i] == nums[i-1]:
-                duplicate = nums[i]
-        missing = (n*(n+1))//2 - (sum(nums) - duplicate)
-        return duplicate, missing
+                d = nums[i]
+        m = (len(nums)*(len(nums)+1))//2 - (sum(nums) - d)
+        return d, m
             
