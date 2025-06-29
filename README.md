@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [2058-concatenation-of-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2556-convert-the-temperature](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
