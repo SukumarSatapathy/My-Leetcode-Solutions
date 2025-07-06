@@ -1,6 +1,6 @@
 class FindSumPairs {
-    int[] nums1, nums2;
-    Map<Integer, Integer> nums2Freq;
+    private int[] nums1, nums2;
+    private Map<Integer, Integer> nums2Freq;
     public FindSumPairs(int[] nums1, int[] nums2) {
         this.nums1 = nums1;
         this.nums2 = nums2;
@@ -12,11 +12,12 @@ class FindSumPairs {
     }
     
     public void add(int index, int val) {
-        int num = this.nums2[index];
-        nums2Freq.put(num, nums2Freq.get(num) - 1);
-        this.nums2[index] += val;
-        num = this.nums2[index];
-        nums2Freq.put(num, nums2Freq.getOrDefault(num, 0) + 1);
+        int oldVal = nums2[index];
+        nums2Freq.put(oldVal, nums2Freq.get(oldVal) - 1);
+        
+        nums2[index] += val;
+        int newVal = nums2[index];
+        nums2Freq.put(newVal, nums2Freq.getOrDefault(newVal, 0) + 1);
     }
     
     public int count(int tot) {
