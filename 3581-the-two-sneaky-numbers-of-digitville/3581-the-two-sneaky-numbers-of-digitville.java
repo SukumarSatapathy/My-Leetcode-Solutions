@@ -1,13 +1,14 @@
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
-        HashSet<Integer> seen = new HashSet<>();
-        int[] ans = new int[2];
-        int pos = 0;
-        for(int num : nums) {
-            if (!seen.add(num)) {
-                ans[pos++] = num;
+        int[] freq = new int[nums.length + 1];
+        int[] result = new int[2];
+        int idx = 0;
+        for (int num : nums) {
+            freq[num]++;
+            if (freq[num] == 2) {
+                result[idx++] = num;
             }
         }
-        return ans;
+        return result;
     }
 }
