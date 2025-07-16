@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
