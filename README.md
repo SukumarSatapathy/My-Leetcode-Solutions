@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
