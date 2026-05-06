@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -11,8 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -24,13 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3412-permutation-difference-between-two-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -53,15 +54,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0009-palindrome-number) |
@@ -73,14 +74,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2048-build-array-from-permutation](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -91,39 +93,39 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
