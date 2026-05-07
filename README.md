@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2399-check-distances-between-same-letters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2399-check-distances-between-same-letters/) | Easy |
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2399-check-distances-between-same-letters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2399-check-distances-between-same-letters/) | Easy |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2399-check-distances-between-same-letters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2399-check-distances-between-same-letters/) | Easy |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
