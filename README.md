@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3379-score-of-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 | Problem Name | Difficulty |
