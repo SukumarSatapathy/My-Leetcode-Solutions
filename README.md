@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 ## Stack
