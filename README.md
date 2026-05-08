@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
