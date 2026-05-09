@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
+| [3884-first-matching-character-from-both-ends](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3884-first-matching-character-from-both-ends/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
