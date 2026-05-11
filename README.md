@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2399-check-distances-between-same-letters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2399-check-distances-between-same-letters/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2689-rearranging-fruits](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
