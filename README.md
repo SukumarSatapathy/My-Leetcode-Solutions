@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
