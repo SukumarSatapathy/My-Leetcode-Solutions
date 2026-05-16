@@ -320,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Hard/1095-find-in-mountain-array/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
