@@ -323,5 +323,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
