@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
