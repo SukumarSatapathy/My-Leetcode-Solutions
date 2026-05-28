@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/0392-is-subsequence) |
