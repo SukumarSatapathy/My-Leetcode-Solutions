@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3028-ant-on-the-boundary/) | Easy |
 | [3194-find-words-containing-character](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
