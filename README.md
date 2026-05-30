@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3701-compute-alternating-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3866-first-unique-even-element](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3028-ant-on-the-boundary/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
