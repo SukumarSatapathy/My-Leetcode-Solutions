@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
