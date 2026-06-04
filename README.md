@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/3794-reverse-string-prefix/) | Easy |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/2187-minimum-time-to-complete-trips/) | Medium |
