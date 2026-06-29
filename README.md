@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
