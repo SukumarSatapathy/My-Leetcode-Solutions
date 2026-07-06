@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/0922-sort-array-by-parity-ii/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SukumarSatapathy/My-Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
